@@ -1,0 +1,27 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.myvenv/
+myvenv/
+
+# Solidity build and compiled output
+build/
+artifacts/
+cache/
+Compiled/
+compiled_code.json
+
+# VS Code settings
+.vscode/
+
+# Environment variable files
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
